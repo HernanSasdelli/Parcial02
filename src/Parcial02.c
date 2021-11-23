@@ -52,8 +52,8 @@ int main(void) {
         		"\n-----------Actualizacion-------------\n"
         		"8. Duplicar fichas de todos los Arcades\n"
 
-        		"\n10. SALIR\n/////////////////////////////////////////\n");
-        utn_getNumero(&opcion, "\nIngrese Opcion Deseada\n", "\nError! Ingreso Invalido\n", 1,10, 2);
+        		"\n9. SALIR\n/////////////////////////////////////////\n");
+        utn_getNumero(&opcion, "\nIngrese Opcion Deseada\n", "\nError! Ingreso Invalido\n", 1,9, 2);
 
 
         switch(opcion)
